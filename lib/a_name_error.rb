@@ -1,3 +1,6 @@
-"hello world"
 
-hello_world
+def hello 
+ puts "hello world"
+end
+
+p hello
